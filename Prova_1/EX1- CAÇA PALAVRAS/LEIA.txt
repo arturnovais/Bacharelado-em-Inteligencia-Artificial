@@ -1,4 +1,8 @@
-Esse caça palavras permita você inputar um número de palavras equivalente a metade do lado da matriz quadrada (Poderiam ser inseridas mais palavras, mas coloquei essa restrição para não sobrecarregar a matriz), ele gera elas em posições e sentidos aleátorios que mudam conforme você roda o código
+Esse caça palavras permita você inputar um número de palavras equivalente a metade do lado da matriz quadrada (Poderiam ser inseridas mais palavras, mas coloquei essa restrição para não sobrecarregar a matriz). 
+
+As palavras são geradas em posições e sentidos aleátorios que mudam conforme você roda o código
+
+Para inserir uma palavra em posição aleátoria eu sorteei dois números aleátorios que iriam corresponder a linha e coluna da minha matriz, assim como sorteei seu sentido
 
 Ele não permite sobreposição, pois fiz uma função que percorre a matriz inteira antes de inserir a palavra, e verifica se onde ele vai colocar a letra existe uma letra diferente caso exista ele não permite a sobreposição
 
