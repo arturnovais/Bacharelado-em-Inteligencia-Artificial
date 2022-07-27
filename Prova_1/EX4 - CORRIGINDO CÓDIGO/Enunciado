@@ -1,0 +1,29 @@
+# Enunciado
+
+Um colega do BIA da turma 2021, te enviou um código pedindo para
+que você olhasse e o ajudasse a corrigir o mesmo.
+
+Segue o código:
+import random
+def ordenacao_selecao(A):
+# Verificar o tamanho dinamicamente do vetor A.
+cont = 0
+while true:
+if A[cont] == null:
+n = cont
+# Percorre o arranjo A.
+for i in range(n):
+# Encontra o elemento mínimo em A.
+minimo = i
+Avaliação IP - BIA - 2022 4for j in range(i + 1, n):
+if A[minimo] > A[j]:
+minimo = j
+# Coloca o elemento mínimo na posição correta.
+#???? (como posso colocar ele na posição corretapara a saída?)
+A = random.sample(range(-10, 10), 10)
+print("Arranjo não ordenado: ", A)
+ordenacao_selecao(A)
+print("Arranjo ordenado:", A)
+
+A) Explique qual foi o erro e corrija o código para o colega. 
+B) Como você estava aprendendo sobre gráficos, plotou os valores em um gráfico de barras para mostrar ambas as barras uma desordenada e outra ordenada.
