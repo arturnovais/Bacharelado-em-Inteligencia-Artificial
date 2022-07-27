@@ -1,4 +1,7 @@
-Esse caça palavras permita você inputar mais de 3 plavras, ele gera elas em posições aleátorias que mudam conforme você roda o código
+Esse caça palavras permita você inputar um número de palavras equivalente a metade do lado da matriz quadrada (Poderiam ser inseridas mais palavras, mas coloquei essa restrição para não sobrecarregar a matriz), ele gera elas em posições e sentidos aleátorios que mudam conforme você roda o código
 
-Ele não permite sobreposição, pois fiz uma função que percorre a matriz inteira antes de inserir a palavra, e verifica se onde ele vai colocar a letra existe uma letra diferente
-caso exista ele não permite a sobreposição
+Ele não permite sobreposição, pois fiz uma função que percorre a matriz inteira antes de inserir a palavra, e verifica se onde ele vai colocar a letra existe uma letra diferente caso exista ele não permite a sobreposição
+
+Assim como não permite que um item seja posto fora do range da matriz
+
+Ao invés de trabalhar com as matrizes já com as letras postas em cada posição resolvi trabalhar com matrizes onde cada lista dentra dela correspondia a uma letra e sua devida posição no tabuleiro.
