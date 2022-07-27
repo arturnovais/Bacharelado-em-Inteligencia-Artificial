@@ -1,0 +1,8 @@
+# Enunciado
+
+Você ingressou em uma fase de um projeto de pesquisa no CEIA, nesseprojeto você irá auxiliar na análise de dados médicos para ump lano de saúde. 
+Foi levantada a planilha de dados a partir da mineração dos dados da operadora junto com seus médicos.
+
+Ficou sob sua responsabilidade analisar os dados que seu time processou e
+encontrar qual o paciente(s) que possui maior risco de vida. Você avaliou e
+encontrou também a faixa de IMC e o IMC médio dos pacientes.
