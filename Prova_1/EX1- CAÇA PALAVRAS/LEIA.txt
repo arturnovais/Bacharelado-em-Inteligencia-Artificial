@@ -1,0 +1,4 @@
+Esse caça palavras permita você inputar mais de 3 plavras, ele gera elas em posições aleátorias que mudam conforme você roda o código
+
+Ele não permite sobreposição, pois fiz uma função que percorre a matriz inteira antes de inserir a palavra, e verifica se onde ele vai colocar a letra existe uma letra diferente
+caso exista ele não permite a sobreposição

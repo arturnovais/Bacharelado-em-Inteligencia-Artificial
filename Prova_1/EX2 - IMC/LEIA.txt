@@ -1,0 +1,3 @@
+Aqui o critério para classificação de maior risco foi o imc, onde ele escolhia os indivíduos de maior imc no grupo de risco cárdiaco, assim alinhando dois fatores para gerar o resultado
+
+Ele tambem contempla a faixa de imc, mostrando o minimo, o maximo e a média
